@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/TheFisola/random-coin/issues"
   },
-  "homepage": "https://github.com/TheFisola/random-coin#readme"
+  "homepage": "https://github.com/TheFisola/random-coin#readme",
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "faker": "^5.5.3"
+  }
 }
